@@ -3,6 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### `node_modules` Folder is not committed as it was and needs to be installed.
+
 
 ### `npm start`
 
